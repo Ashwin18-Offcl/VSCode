@@ -4,7 +4,7 @@
 <!-- =============================================================== -->
 
 <p align="center">
-  <img src="https://github.com/Ashwin18-Offcl/VS_Code_Portfolio/blob/main/Thumbnail.jpeg"
+  <img src="https://github.com/Ashwin18-Offcl/VSCode/blob/main/VS%20Code%20Thumbnail.png"
        width="900"
        alt="Visual Studio Code Portfolio Banner"/>
 </p>
